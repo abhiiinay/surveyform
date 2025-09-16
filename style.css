@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(115, 241, 241);
+    background-image: url(https://wallpapers.com/images/hd/sky-blue-background-klsgg0p0wj4pd0cg.jpg);
+    
+    margin: 0;
+    padding: 20px;
+}
+
+.details {
+    width: 1000px;
+    margin: 20px auto; 
+    padding: 50px;
+    background-color: rgb(230, 240, 202);
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    
+}
+
+h1, h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+table {
+    font-size: 20px;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table td {
+    padding: 12px 15px;
+    vertical-align: top;
+}
+
+
+.ty label {
+    text-indent: 20px;
+    display: inline-block;
+    color: #2c3e50;
+    width: 30%;
+    vertical-align: top;
+    padding-left: 200px; 
+}
+   
+
+
+
+.yt {
+    text-align: right;
+    width: 70%;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+
+
+
+
+
+.submit {
+    border-radius: 5px;
+    background-color: rgb(60, 133, 241);
+    color: aliceblue;
+    padding: 12px 25px;
+    font-size: 17px;
+    cursor: pointer;
+    border: none;
+    display: block;
+    margin: 30px auto 0; 
+    font-weight: bold;
+}
+
